@@ -5,6 +5,13 @@ A deep learning-based document image classification system built using **PyTorch
 The system classifies scanned document images into 10 different document categories based solely on visual layout patterns, eliminating the need for Optical Character Recognition (OCR).
 
 ---
+## Application Preview
+
+![Dashboard](assets/dashboard.png)
+
+![Prediction](assets/prediction&Grad-CAM.png)
+
+---
 
 ## 🚀 Project Overview
 
@@ -293,8 +300,6 @@ DOCUMENT_CLASSIFIER
 │   ├── training_curves.png
 │   └── evaluation_report.md
 │
-├── scratch
-│   └── test_gradcam.py
 │
 ├── requirements.txt
 ├── run.bat
