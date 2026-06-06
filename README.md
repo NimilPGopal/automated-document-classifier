@@ -5,6 +5,11 @@ A deep learning-based document image classification system built using **PyTorch
 The system classifies scanned document images into 10 different document categories based solely on visual layout patterns, eliminating the need for Optical Character Recognition (OCR).
 
 ---
+
+## Live Demo
+https://automated-document-classifier-2026.streamlit.app/
+
+---
 ## Application Preview
 
 ![Dashboard](assets/dashboard.png)
