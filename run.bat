@@ -1,0 +1,6 @@
+@echo off
+echo Activating virtual environment...
+call venv\Scripts\activate.bat
+echo Starting Streamlit App...
+streamlit run src/app.py
+pause

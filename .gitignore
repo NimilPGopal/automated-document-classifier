@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Streamlit Cache
+.streamlit/secrets.toml
+
+
+# Dataset
+data/
+
+# Temporary files
+temp/
+tmp/
+scratch/__pycache__/
+
+# Generated Reports (optional)
+reports/*.pdf
+
+# Cache
+.cache/
