@@ -450,7 +450,7 @@ else:
             ">
                 <h3>Ready for Analysis</h3>
                 <p>
-                Upload a document image or select a sample document from the dataset.
+                Upload a document image to get started.
                 </p>
             </div>
             """, unsafe_allow_html=True)   
