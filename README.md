@@ -99,6 +99,8 @@ https://www.kaggle.com/datasets/patrickaudriaz/tobacco3482jpg
 ## Dataset Setup
 Extract the dataset and organize it as:
 
+
+```text
 data/
 └── Tobacco3482/
     ├── ADVE/
@@ -111,7 +113,7 @@ data/
     ├── Report/
     ├── Resume/
     └── Scientific/
-
+```
 ---
 
 # 🏗️ System Architecture
